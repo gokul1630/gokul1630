@@ -6,4 +6,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul1630&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokul1630&theme=github_dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1630&theme=github_dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul1630&theme=github_dark&layout=compact&langs_count=20)
