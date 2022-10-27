@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokulprasanth</h1>
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **React, Redux & Nodejs**
 
