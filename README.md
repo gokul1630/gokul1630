@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **React, Redux & Nodejs**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **gokulgp3167@gmail.com**
 
