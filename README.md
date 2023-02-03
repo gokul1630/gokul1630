@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokulprasanth</h1>
 
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **Frontend Development**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **gokulgp3167@gmail.com**
 
