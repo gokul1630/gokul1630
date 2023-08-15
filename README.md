@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokulprasanth</h1>
 
-- 🌱 I’m currently learning **Golang**
-
+- 🌱 I’m currently learning **Swift**
+- 📚 My tech stacks [UI design systems, MERN, Go]
 - 📫 How to reach me **gokulgp3167@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
