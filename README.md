@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokulprasanth</h1>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Devops**
 - 📚 My tech stacks [UI design systems, MERN, Go]
 - 📫 How to reach me **gokulgp3167@gmail.com**
 
